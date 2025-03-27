@@ -1,0 +1,7 @@
+/build/**
+/node_modules/**
+/.svelte-kit/**
+/.idea/**
+static
+package-lock.json
+pnpm-lock.yaml

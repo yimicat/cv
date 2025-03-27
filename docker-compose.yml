@@ -1,0 +1,15 @@
+services:
+  sveltekit:
+    container_name: cv-sveltekit
+    build: .
+    restart: always
+    ports:
+      - 5051:5051
+    environment:
+      PORT: 5051
+      ORIGIN: "http://localhost:5051"
+
+# networks:
+#   default:
+#     name: cloudflare
+#     external: true

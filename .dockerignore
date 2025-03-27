@@ -1,0 +1,15 @@
+.git
+.idea
+.svelte-kit
+!.svelte-kit/tsconfig.json
+build
+node_modules
+.dockerignore
+.gitignore
+.prettierignore
+.stylelintignore
+eslint.config.js
+pnpm-lock.yaml
+prettier.config.js
+README.md
+stylelint.config.js
