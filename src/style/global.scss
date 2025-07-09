@@ -82,6 +82,16 @@ em {
 
 body {
   cursor: url('/pointer.cur'), default;
+  background-image:
+    linear-gradient(to right, rgb(0 0 0 / 4%) 1px, transparent 1px),
+    linear-gradient(to bottom, rgb(0 0 0 / 4%) 1px, transparent 1px);
+  background-size: 7px 7px;
+}
+
+.dark body {
+  background-image:
+    linear-gradient(to right, rgb(255 255 255 / 4%) 1px, transparent 1px),
+    linear-gradient(to bottom, rgb(255 255 255 / 4%) 1px, transparent 1px);
 }
 
 a,
