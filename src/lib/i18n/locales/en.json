@@ -7,9 +7,10 @@
     "text": "About Me",
     "data": {
       "info": [
-        "<em>Capable of the entire project development</em>, including project requirements, interface design, front end, back end, release, etc.",
-        "Master multiple development technologies, including java backend, web front end, mobile cross-platform, desktop application, database, nginx, distributed cluster, etc.",
-        "Lead the team through the project development."
+        "<em>Be capable of independently handling the entire project development process</em>, including organizing requirements and writing documents, formulating project plans, designing prototype interfaces with Axure, database design, UI design, writing front-end and back-end codes, testing, going live and releasing, as well as maintenance and optimization.",
+        "Technology stack: <em>Java full stack </em> (Spring+Vue, Spring+uni-app, Spring+jquery/js), <em> Front-end Full stack </em> (Nuxt, SvelteKit).",
+        "Having experienced jsp, freemark, the separation of front-end and back-end, jquery, and the vue period, <em>I can develop and maintain both new and old technology projects</em>.",
+        "Lead the team to complete the project development."
       ]
     }
   },
@@ -28,26 +29,26 @@
         "type": "Back End",
         "list": [
           "Java",
+          "SpringBoot",
           "SpringCloud",
-          "Netty",
-          "ExpressJs",
-          "NodeJs",
-          "Mysql/MariaDB",
+          "Mysql",
           "Redis",
-          "MongoDB"
+          "Netty",
+          "NodeJs",
+          "ExpressJs"
         ]
       },
       {
         "type": "Front End",
-        "list": ["Vue", "Svelte", "uni-app", "Nuxt", "Html/CSS", "Electron"]
+        "list": ["Vue", "uni-app", "Sass", "Nuxt", "Svelte", "JS/Html/CSS", "Electron"]
       },
       {
         "type": "Other",
-        "list": ["Docker", "MP2", "Nginx", "Jenkins", "Wordpress"]
+        "list": ["Nginx", "Docker", "MP2", "Wordpress"]
       },
       {
         "type": "Design",
-        "list": ["Axure", "Photoshop"]
+        "list": ["PowerDesigner", "Axure", "Photoshop"]
       }
     ]
   },
@@ -56,11 +57,11 @@
     "data": [
       {
         "name": "Hunan Institute of Water Resources and Hydropower Research Personnel Records Management System",
-        "date": "2022.06 - 2022.07",
+        "date": "2023.02 - 2023.08",
         "desc": "Personnel file management system of the Academy of Water Sciences is a computer system that adopts the technologies of electronic archives, image digitization, paperless office and information networking to realize the storage and query and retrieval of multimedia archive resources including archive documents, sound, image and text, providing an effective technical guarantee for the management, utilization and protection of archive materials, infinitely prolonging the preservation time of the archive materials, and bringing convenience to the access and utilization of the archive documents. Archival literature to bring convenience.",
-        "skills": ["SpringCloud", "Vue", "Minio", "MySql"],
+        "skills": ["SpringBoot", "Minio", "MySql", "Vue + Ant Design"],
         "duty": [
-          "Writing related documents, prototyping, UI design",
+          "Write relevant documents and complete delivery",
           "Responsible for website front and backend framework construction, component packaging, progress management",
           "Selection of high-fidelity camera manufacturers, equipment docking debugging"
         ],
@@ -70,10 +71,10 @@
         "name": "Information Platform of Liling Center for Disease Control and Prevention",
         "date": "2021.12 - 2022.04",
         "desc": "A general control platform integrating smart office, smart property management, smart LIS system, performance appraisal, health education management, smart party building, chronic disease management and infectious disease information management.",
-        "skills": ["SpringCloud", "Vue", "Redis", "MySql"],
+        "skills": ["SpringCloud", "Vue + ElementUI", "Redis", "MySql"],
         "duty": [
-          "prototype design, UI design",
-          "responsible for building the front and back frames of the website",
+          "Prototype design, UI design",
+          "Responsible for building the front and back frames of the website",
           "System Management, Intelligent Party Building and Development"
         ],
         "url": "http://218.76.171.78:12012/"
@@ -82,11 +83,10 @@
         "name": "Comprehensive Management Platform of Network Information Office",
         "date": "2019.05 - 2019.12",
         "desc": "Based on the network environment, we independently develop network public opinion briefing, network collaborative office, etc., integrate various data resources such as security early warning and situation awareness, and realize the integrated network information collection, dynamic supervision, analysis, statistics, early warning, disposal and other functions through multi-department information sharing and collaborative work.",
-        "skills": ["SpringCloud", "Vue", "Redis", "MySql"],
+        "skills": ["SpringCloud", "Vue + ElementUI", "Redis", "MySql"],
         "duty": [
-          "database design",
-          "prototype design, UI design",
-          "Be responsible for building the front and back frame of the website"
+          "Write relevant design documents according to the requirements alone, design prototypes, design databases, build frameworks, assign tasks, and control the project progress",
+          "Attend the meeting of Hunan Network Information Office, and be responsible for explaining and demonstrating the project to the leaders"
         ],
         "url": ""
       },
@@ -94,10 +94,11 @@
         "name": "Changsha Internet Information Office Public Opinion Briefing System",
         "date": "2019.04 - 2019.05",
         "desc": "Briefing system, including briefing management, briefing label management, briefing material management, review and approval, finalization management, export and other modules, to provide convenience for the Office of the Internet Information Office office staff",
-        "skills": ["Spring", "layui", "MySql"],
+        "skills": ["SpringBoot", "JQuery + RequireJs + Layui", "MySql"],
         "duty": [
-          "Write relevant documentation documentation, database design, prototyping, UI design",
-          "framework building, component development, delivery"
+          "Complete the whole project alone (database design, prototype design, UI design, writing related documents)",
+          "Word briefing generated by poi and website screenshot inserted into briefing",
+          "Frame building, component development and delivery"
         ],
         "url": ""
       },
@@ -105,7 +106,7 @@
         "name": "Online Learning and Training Platform For Road Transportation",
         "date": "2019.02 - 2019.03",
         "desc": "For drivers who hold the Road Transportation Qualification Certificate and are engaged in the transportation of passengers, ordinary goods and dangerous goods, online registration, training and graduation are conducted through PC and mobile terminals, and training, learning, assessment and scoring are conducted through video exercises.",
-        "skills": ["SpringBoot", "MySql", "Vue", "uniapp"],
+        "skills": ["SpringBoot", "MySql", "Vue + ElementUI", "uni-app"],
         "duty": [
           "Responsible for the construction of the front-end framework of the website, the development of the question and answer component and the development of the video playback score component.",
           "The entire project UI design including PC, WeChat and code implementation",
@@ -119,7 +120,7 @@
         "name": "Multi-dimensional Application Security Threat Awareness and Defense System",
         "date": "2018.10 - 2018.11",
         "desc": "Nesun Multi-dimensional Application Security Threat Awareness and Defense System is an application security firewall system developed by Shenzhen Nexsion Technology Co., Ltd. based on the technical research in the field of application security, combined with the current status quo and demand for application security.",
-        "skills": ["layui", "springboot", "MySql"],
+        "skills": ["SpringBoot + Jsp", "Layui", "MySql"],
         "duty": [
           "Single-handedly perform the entire project management side including front and back end",
           "Configuration file front-end visualization plugin development"
@@ -130,11 +131,10 @@
         "name": "TaoLaw (Ali Law)",
         "date": "2018.06 - 2018.08",
         "desc": "online legal platform, which provides a platform for lawyers, teams and consultants to communicate and handle, as well as legal information. Lawyers can obtain the source of cases published by consultants through the platform, and they can publish personal information trends and articles. Consultants can choose lawyers to go to court through the platform, and they can view legal information and laws and regulations. ",
-        "skills": ["NuxtJs", "Vue", "Vuex", "ElementUI", "MySql"],
+        "skills": ["NuxtJs", "ElementUI", "SpringBoot", "MySql"],
         "duty": [
-          "Complete the front-end development alone",
-          "Third-party login and docking of WeChat, QQ and Sina",
-          "WeChat Alipay Payment"
+          "Write the whole front-end code by yourself (including the realization of the whole front-end page, framework construction, functional componentization, functional realization, interface docking and test optimization according to the UI design draft)",
+          "The front-end and back-end of WeChat Alipay payment are realized, and the front-end and back-end of WeChat, QQ and Sina are connected"
         ],
         "url": "https://www.taofa.cn"
       },
@@ -142,14 +142,12 @@
         "name": "Crowd Supervision System",
         "date": "2018.03 - 2018.05",
         "desc": "a system for managing special people. The system can realize the high-precision real-time positioning and management of key personnel by the staff of relevant departments through PC and mobile devices by wearing bracelet equipment. GPS/ Beidou positioning is adopted to realize real-time position data, and managers with different authorities can view the real-time position, abnormal situation, aggregation warning, hurdle alarm, personal situation and other data of all monitored objects in their corresponding authority areas. ",
-        "skills": ["SpringBoot", "Netty", "jQuery", "EChart", "Redis", "MySql", "NB-IoT"],
+        "skills": ["SpringBoot + Netty + MySql", "NB-IoT", "Redis", "jQuery + Layui + EChart"],
         "duty": [
-          "Front-end and back-end framework construction, database design, server-side interface based on rest, PC and Android to provide data interface",
-          "Back-end aggregation and fence crossing algorithm implementation, front-end positioning map display implementation, fence editing component implementation, action track display",
-          "communications monitoring capability",
-          "Device Docking, Huawei NB-IOT Docking",
-          "UI design, large screen homepage design and code implementation",
-          "Optimization improvements"
+          "Complete the front-end and back-end framework construction, UI design and database design by yourself. The server interface is based on rest, and the PC provides data interface with Android.",
+          "Back-end aggregation and fence-crossing algorithm, front-end positioning map display, fence editing component realization and action track display",
+          "Bracelet equipment docking, Huawei NB-IOT docking, bracelet communication monitoring function",
+          "Design and code implementation of large screen home page"
         ],
         "url": ""
       },
@@ -157,7 +155,7 @@
         "name": "Uncle Cat's Car Circle App",
         "date": "2017.06 - 2017.08",
         "desc": "Uncle Cat's car enthusiasts circle forum, to car meet friends, provide online chat, share life, share the road, provide services around the neighborhood, the nearby gas station services, you can buy small goods around, as well as points redemption, small games pk and other dating app",
-        "skills": ["uni-app", "PhaserJs", "RequireJs", "MyBatis", "MySql", "Spring"],
+        "skills": ["uni-app", "PhaserJs", "RequireJs", "EChart", "SpringBoot + MyBatis", "MySql"],
         "duty": [
           "According to the ui front-end code implementation",
           "Nearby gas stations, buddy chat",
@@ -169,7 +167,12 @@
         "name": "Ju jing jia pin cross-border e-commerce platform",
         "date": "2016.05 - 2017.01",
         "desc": "Jujingjiapin cross-border e-commerce platform is a B2B and B2C e-commerce platform that cooperates with Mango TV, mainly with TV stations and shops. The platform is divided into three systems: backstage general system, store system and front-end WeChat WeChat official account.",
-        "skills": ["SpringMVC", "Freemarker", "MyBatis", "MySql", "MemberCache", "JQuery"],
+        "skills": [
+          "SpringBoot + Freemarker + MyBatis",
+          "RequireJs + ZeptoJs",
+          "MySql",
+          "MemberCache"
+        ],
         "duty": [
           "Analyze requirements, create interface prototypes, UI design",
           "Responsible for building the front-end framework of the website, functional componentization",
@@ -198,10 +201,10 @@
         "name": "Electronic Taxation Bureau of Hunan Province, State Administration of Taxation",
         "date": "2015.11 - 2016.01",
         "desc": "Responding to Internet+, Hunan State Tax Palm Tax Office, realizes to let local companies and enterprises in Hunan pay taxes and fees through WeChat or app cell phone, eliminating the trouble of going to the tax office, and provides convenient services such as inquiries on tax-related matters, declaration and payment, payment calendar, tax navigation and so on.",
-        "skills": ["bootstrap", "jQuery", "Springboot", "oracle"],
+        "skills": ["SpringBoot + Freemarker + MyBatis", "JQuery + BootStrap", "Oracle"],
         "duty": [
-          "Framework: the choice of phonegap to achieve a development across the three ends , the use of seajs modular development , the choice of lightweight plug-ins frozenUI + zeptojs",
-          "Realization of functions such as tax reservation, tax edition navigation, simple declaration, UnionPay online tax payment, three-party agreement tax payment, invoice inspection, invoice application, tax payment vouchers, complaint and report, as well as querying personal tax information and tax consulting.",
+          "Encapsulate rest plug-ins",
+          "The realization of related functions such as tax appointment, royalty navigation, simple declaration, online payment by UnionPay, payment by tripartite agreement, old invoice checking, receipt of invoices, tax payment vouchers, complaints and reports, and various inquiries about personal tax information and tax consultation",
           "Help colleagues to solve problems encountered in the project",
           "Go-live testing and maintenance"
         ],
@@ -211,14 +214,12 @@
         "name": "Tax financial Connect",
         "date": "2015.08 - 2015.10",
         "desc": "Tax financial Connect is a platform to solve the difficulty of financing and lending for small and medium-sized enterprises by integrating tax, bank, insurance and other market resources through the Internet platform with the help of “Internet+” mode.",
-        "skills": ["BootStrap", "JQuery", "Spring3", "Struts2", "ibatis", "Oracle"],
+        "skills": ["SpringMVC + MyBatis", "JQuery + BootStrap", ",Oracle"],
         "duty": [
-          "Design foreground and background pages, make UI design of interface prototype",
-          "Front and Back Frame Building",
+          "Complete the front and back page design, prototype UI design, front and back frame building, and component packaging alone",
           "The functions of issuing loans at the front desk, registering and logging in, national tax authorization, message management and account management are realized",
-          "Implementation of related functions such as background organization management, user management, registered user management and query statistics",
-          "Help colleagues solve problems encountered in the project",
-          "Post-related function maintenance"
+          "Implementation of related functions such as background organization management, user management, registered user management and query statistics.",
+          "Help colleagues solve problems encountered in the project, Post-related function maintenance"
         ],
         "url": ""
       },
@@ -226,7 +227,7 @@
         "name": "Abc Tax Net",
         "date": "2015.04 - 2015.06",
         "desc": "",
-        "skills": ["BootStrap", "JQuery", "Spring3", "Struts2", "ibatis", "Oracle"],
+        "skills": ["SpringMVC + MyBatis", "JQuery + BootStrap", ",Oracle"],
         "duty": [
           "Personal center page with front and backend code writing",
           "Packaging rest plugins",
@@ -236,17 +237,23 @@
         "url": ""
       },
       {
+        "name": "ABC Official Website",
+        "date": "2015.02 - 2015.02",
+        "desc": "ABC Official Website",
+        "skills": ["JQuery + BootStrap", "Nginx"],
+        "duty": ["Independently complete the code writing for the official website"],
+        "url": "http://www.chabc.net"
+      },
+      {
         "name": "636 Enterprise Title Invoice System",
         "date": "2014.10 - 2015.01",
         "desc": "In accordance with the overall requirements of “simplifying the types of invoices, unifying the invoices, establishing a platform, and issuing on the network”, the enterprise title invoice system is constructed, which consists of three parts: enterprise invoicing client, invoice backend service terminal, and enterprise invoice management terminal, and realizes the functions of invoice purchase management, invoice distribution management, invoice item management, invoice balance management, invoice issuing on the network, and invoice checking and old payment and cancellation. It realizes the functions of invoice purchase management, invoice distribution management, invoice item management, invoice balance management, invoice network issuance, invoice checking, old payment and cancellation, establishes the long-term closed-loop management mechanism of invoices, and intensifies the supervision on the use of invoices of the enterprises, so as to avoid the tax-related risks brought by illegal violations.",
-        "skills": ["Spring", "Struts2", "iBatis", "JQueryEasyUI"],
+        "skills": ["Spring3 + Struts2 + iBatis", "JQueryEasyUI"],
         "duty": [
-          "Invoice entry, invoice printing, invoice preview, front and back end implementation",
-          "Complex Invoice Item Entry Plugin Implementation",
-          "Dropdown selector componentization",
-          "paging componentization",
-          "Page design",
-          "Maintenance of back-end related functions"
+          "Background Page Design and Code Realization",
+          "Invoice entry, invoice printing, invoice preview, front-end and back-end implementation",
+          "Implementation of complex invoice item entry plug-in",
+          "Drop-down selector componentization and paging componentization"
         ],
         "url": ""
       },
@@ -254,7 +261,7 @@
         "name": "Hunan State Tax Horizontal Networking V",
         "date": "2014.2 - 2014.04",
         "desc": "The operation and maintenance management system of Hunan State Tax Horizontal Networking Phase V provides the operation and maintenance personnel with the monitoring of the interaction information processing between horizontal networking and TIPS, which includes the monitoring of active interaction messages with TIPS, the monitoring of passive acceptance of TIPS notification messages, the querying and processing of abnormal data, the control of starting and stopping of the tax payment mode of the horizontal networking, and the checking of the tax payment situation of the background of the horizontal networking, etc., so as to provide the operation and maintenance personnel with more complete monitoring and operation and maintenance services. The functions of monitoring and maintenance include",
-        "skills": ["Spring", "Struts2", "iBatis", "JQueryEasyUI"],
+        "skills": ["Spring3 + Struts2 + iBatis", "JQueryEasyUI"],
         "duty": [
           "Manual reconciliation module, manual warehousing module",
           "Clearing house line number maintenance module",
@@ -283,16 +290,17 @@
         "job": "R&D Supervisor ",
         "info": "Number of subordinates: 8",
         "duty": [
-          "Customize the company's R&D norms and management norms, build the company's R&D environment, build the company's basic framework, and remodel the official website.",
-          "Resolve legacy undelivered project issues from previous principals and complete go-live delivery",
-          "Requirements analysis, project plan development, documentation, project development control, completion of delivery"
+          "Develop R&D specifications and code management specifications for the company, build the company's R&D environment and build the company's basic framework",
+          "Solve the problems left by the undelivered project of the former person in charge and complete the online delivery",
+          "Responsible for new project demand analysis, project planning, documentation, project development control and delivery",
+          "The original scattered codes and data of the company are sorted and stored in a centralized way, and managed through software specifications"
         ]
       },
       {
         "corporation": "Hunan Tianren Information Technology Co., LTD.",
         "date": "2019.05 - 2021.04",
         "job": "R&D Supervisor ",
-        "info": "Number of subordinates: 8",
+        "info": "Number of subordinates: 6",
         "duty": [
           "Creation of R&D team, customization of company R&D norms and management norms",
           "Complete the entire integrated governance platform prototyping, page design, page implementation, database development, and architecture alone.",
@@ -304,37 +312,26 @@
         "corporation": "Shenzhen Nensun Technology Co., LTD. ",
         "date": "2017.02 - 2019.05",
         "job": "Full Stack Developer",
-        "info": "Number of subordinates: 8",
+        "info": "Number of subordinates: 6",
         "duty": [
-          "Backend development, web development, mobile development",
-          "Responsible for aggregation algorithms, crossbar algorithms and front-end visualization",
-          "Responsible for project prototyping and UI design",
+          "Responsible for the development of the framework and core components of the project, and participated in background development, web development and mobile development respectively.",
+          "Responsible for the aggregation algorithm, hurdle algorithm and front-end map visualization plug-in of bracelet project",
+          "Encapsulating Front-end Interactive Plug-ins Based on restful Style +jwt",
           "Baseline framework construction",
-          "Maintenance of related projects"
+          "Responsible for the prototype design and UI design of each project"
         ]
       },
       {
-        "corporation": "Hunan Xunlong Network Technology Co., LTD. ",
-        "date": "2016.05 - 2017.01",
-        "job": "Project Manager",
+        "corporation": "Hunan ABC Computer System Co., LTD. ",
+        "date": "2013.02 - 2017.01",
+        "job": "Project Manager, Java Development",
         "info": "Number of subordinates: 4",
         "duty": [
-          "Participate in part of the back-end development, solely responsible for WeChat public number development, front-end development",
-          "Responsible for prototype design, UI design, website front-end framework construction",
-          "In response to user feedback, optimize and upgrade the product、maintenance"
-        ]
-      },
-      {
-        "corporation": "Hunan ABck Computer System Co., LTD. ",
-        "date": "2013.02 - 2016.04 ",
-        "job": "Project Manager",
-        "info": "Number of subordinates: 4",
-        "duty": [
-          "Led the team to complete the development of wechat terminal and Android terminal of Hunan National Tax Pocket Tax Office;",
-          "Project pre-study;",
-          "Assign tasks;",
-          "Prototyping, UI design;",
-          "Frame building;"
+          "Lead the project team to use phonegap technology to complete the cross-platform development of WeChat and Android in Hunan State Taxation Office.",
+          "Participate in Java back-end development",
+          "Responsible for UI interface code implementation, encapsulating restc api call plug-ins, and hashgo lightweight front-end routing.",
+          "Design the entire prototype interface to participate in the review and UI design",
+          "Interface design and framework construction of management terminal"
         ]
       }
     ]
@@ -383,9 +380,14 @@
         "desc": "First project to solve cross-platform APP development"
       },
       {
+        "date": "2015.12",
+        "name": "Freemarker",
+        "desc": "Company project technology"
+      },
+      {
         "date": "2016.05",
         "name": "SpringBoot Shiro",
-        "desc": "Update company project technology"
+        "desc": "Company project technology"
       },
       {
         "date": "2017.06",
@@ -415,7 +417,7 @@
       {
         "date": "2019.05",
         "name": "SpringCloud",
-        "desc": "Company development technology"
+        "desc": "Self-taught and applied to company development"
       },
       {
         "date": "2021.02",
@@ -430,6 +432,11 @@
       {
         "date": "2022.04",
         "name": "Svelte SvelteKit Unocss",
+        "desc": ""
+      },
+      {
+        "date": "2025.05",
+        "name": "Cursor, Trae, Augment Code, MCP",
         "desc": ""
       }
     ]
