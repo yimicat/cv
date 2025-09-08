@@ -7,7 +7,7 @@
   <div class="text-pretty text-sm text-muted-foreground font-mono">
     <ol class="ml-6 list-decimal">
       {#each $json('About.data.info') as i, index}
-        <li>{@html i}</li>
+        <li class="mb-2">{@html i}</li>
       {/each}
     </ol>
   </div>

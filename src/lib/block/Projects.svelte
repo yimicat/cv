@@ -40,7 +40,7 @@
         <div class="mt-2 text-pretty text-xs text-muted-foreground font-mono">
           <ol class="m-2 ml-5 list-decimal">
             {#each i.duty as d}
-              <li>{d}</li>
+              <li>{@html d}</li>
             {/each}
           </ol>
           {#if i.url != ''}
