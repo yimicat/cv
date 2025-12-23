@@ -8,8 +8,9 @@
     "data": {
       "info": [
         "能<em>独自胜任整个项目开发</em>，包括整理需求编写文档、制定项目计划、Axure设计原型界面、数据库设计、UI设计、编写前后端代码、测试上线发布、维护优化等全过程。",
-        "技术栈：<em>Java全栈</em>（Spring+Vue、Spring+uni-app、Spring+jquery/js）、<em>前端全栈</em>（Nuxt、SvelteKit）。",
-        "经历过jsp、freemark到前后端分离、jquery到vue时期、<em>新老技术项目都可以开发与维护</em>。",
+        "使用Codex，Claude Code，<em>运用AI大模型工具编程开发，与代码审查</em>。",
+        "<em>Java全栈</em>（Spring+Vue、Spring+uni-app、Spring+jquery/js）、<em>前端全栈</em>（Nuxt、SvelteKit）。",
+        "经历jsp、freemark到前后端分离、jquery到vue时期、<em>新旧技术项目亦可胜任开发与维护</em>。",
         "带领团队完成项目开发。"
       ]
     }
@@ -33,22 +34,33 @@
           "SpringCloud",
           "Mysql",
           "Redis",
-          "Netty",
+          "Nginx",
+          "Docker",
           "NodeJs",
           "ExpressJs"
         ]
       },
       {
         "type": "前端",
-        "list": ["Vue", "uni-app", "Sass", "Nuxt", "Svelte", "JS/Html/CSS", "Electron"]
+        "list": [
+          "Vue",
+          "uni-app",
+          "Sass",
+          "Nuxt",
+          "Svelte",
+          "JS/Html/CSS",
+          "Electron",
+          "MP2",
+          "Build tools"
+        ]
       },
       {
-        "type": "其他",
-        "list": ["Nginx", "Docker", "MP2", "Wordpress"]
+        "type": "AI",
+        "list": ["Codex", "Claude Code"]
       },
       {
-        "type": "设计",
-        "list": ["PowerDesigner", "Axure", "Photoshop"]
+        "type": "设计等",
+        "list": ["PowerDesigner", "Axure", "Photoshop", "Wordpress"]
       }
     ]
   },
@@ -56,20 +68,8 @@
     "text": "项目",
     "data": [
       {
-        "name": "湖南省水利水电科学研究院人事档案管理系统",
-        "date": "2023.02 - 2023.08",
-        "desc": "水科院人事档案管理系统是一个采用档案电子化、影像数字化、办公无纸化以及信息网络化等技术，实现包括档案文件、声音、影像、文本在内的多媒体档案资源的存储和查询检索的计算机系统。",
-        "skills": ["SpringBoot", "Minio", "MySql", "Vue + Ant Design"],
-        "duty": [
-          "编写相关文档，完成交付",
-          "负责网站前后台框架搭建，组件封装，进度管理",
-          "选择高拍仪厂商，设备对接调试"
-        ],
-        "url": ""
-      },
-      {
         "name": "醴陵市疾病预防控制中心信息化平台",
-        "date": "2021.12 - 2022.04",
+        "date": "2023.02 - 2023.08",
         "desc": "包含智慧办公、智慧物管、智慧LIS系统、绩效考核、健康教育管理、智慧党建、慢性病管理、传染病信息管理多个子系统的总控平台系统。",
         "skills": ["SpringCloud", "Vue + ElementUI", "Redis", "MySql"],
         "duty": [
@@ -78,6 +78,18 @@
           "完成系统管理模块、完成智慧党建子系统开发"
         ],
         "url": "http://218.76.171.78:12012/"
+      },
+      {
+        "name": "湖南省水利水电科学研究院人事档案管理系统",
+        "date": "2021.12 - 2022.04",
+        "desc": "水科院人事档案管理系统是一个采用档案电子化、影像数字化、办公无纸化以及信息网络化等技术，实现包括档案文件、声音、影像、文本在内的多媒体档案资源的存储和查询检索的计算机系统。",
+        "skills": ["SpringBoot", "Minio", "MySql", "Vue + Ant Design"],
+        "duty": [
+          "编写相关文档，完成交付",
+          "负责网站前后台框架搭建，组件封装，进度管理",
+          "选择高拍仪厂商，设备对接调试"
+        ],
+        "url": ""
       },
       {
         "name": "网信办综合治理平台",
@@ -303,7 +315,7 @@
           "从零开始组建研发团队，包括搭建公司研发环境、订制公司研发规范与管理规范，面试招聘研发与测试人员",
           "独自完成公司核心项目综合治理平台原型设计、页面设计、页面实现、数据库开发，以及架构",
           "制定开发计划，带领团队完成项目开发",
-          "在网信办进行项目演示"
+          "在省网信办进行项目演示"
         ]
       },
       {
@@ -434,6 +446,11 @@
       {
         "date": "2025.05",
         "name": "Cursor，Trae，Augment Code，MCP",
+        "desc": ""
+      },
+      {
+        "date": "2025.10",
+        "name": "Codex，Claude Code",
         "desc": ""
       }
     ]

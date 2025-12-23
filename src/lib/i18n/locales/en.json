@@ -8,6 +8,7 @@
     "data": {
       "info": [
         "<em>Be capable of independently handling the entire project development process</em>, including organizing requirements and writing documents, formulating project plans, designing prototype interfaces with Axure, database design, UI design, writing front-end and back-end codes, testing, going live and releasing, as well as maintenance and optimization.",
+        "Using Codex，Claude Code, <em>Using AI big model tools for programming and development, and code review.",
         "Technology stack: <em>Java full stack </em> (Spring+Vue, Spring+uni-app, Spring+jquery/js), <em> Front-end Full stack </em> (Nuxt, SvelteKit).",
         "Having experienced jsp, freemark, the separation of front-end and back-end, jquery, and the vue period, <em>I can develop and maintain both new and old technology projects</em>.",
         "Lead the team to complete the project development."
@@ -33,22 +34,33 @@
           "SpringCloud",
           "Mysql",
           "Redis",
-          "Netty",
+          "Nginx",
+          "Docker",
           "NodeJs",
           "ExpressJs"
         ]
       },
       {
         "type": "Front End",
-        "list": ["Vue", "uni-app", "Sass", "Nuxt", "Svelte", "JS/Html/CSS", "Electron"]
+        "list": [
+          "Vue",
+          "uni-app",
+          "Sass",
+          "Nuxt",
+          "Svelte",
+          "JS/Html/CSS",
+          "Electron",
+          "MP2",
+          "Build tools"
+        ]
       },
       {
-        "type": "Other",
-        "list": ["Nginx", "Docker", "MP2", "Wordpress"]
+        "type": "AI",
+        "list": ["Codex", "Claude Code"]
       },
       {
         "type": "Design",
-        "list": ["PowerDesigner", "Axure", "Photoshop"]
+        "list": ["PowerDesigner", "Axure", "Photoshop", "Wordpress"]
       }
     ]
   },
@@ -56,20 +68,8 @@
     "text": "Projects",
     "data": [
       {
-        "name": "Hunan Institute of Water Resources and Hydropower Research Personnel Records Management System",
-        "date": "2023.02 - 2023.08",
-        "desc": "Personnel file management system of the Academy of Water Sciences is a computer system that adopts the technologies of electronic archives, image digitization, paperless office and information networking to realize the storage and query and retrieval of multimedia archive resources including archive documents, sound, image and text, providing an effective technical guarantee for the management, utilization and protection of archive materials, infinitely prolonging the preservation time of the archive materials, and bringing convenience to the access and utilization of the archive documents. Archival literature to bring convenience.",
-        "skills": ["SpringBoot", "Minio", "MySql", "Vue + Ant Design"],
-        "duty": [
-          "Write relevant documents and complete delivery",
-          "Responsible for website front and backend framework construction, component packaging, progress management",
-          "Selection of high-fidelity camera manufacturers, equipment docking debugging"
-        ],
-        "url": ""
-      },
-      {
         "name": "Information Platform of Liling Center for Disease Control and Prevention",
-        "date": "2021.12 - 2022.04",
+        "date": "2023.02 - 2023.08",
         "desc": "A general control platform integrating smart office, smart property management, smart LIS system, performance appraisal, health education management, smart party building, chronic disease management and infectious disease information management.",
         "skills": ["SpringCloud", "Vue + ElementUI", "Redis", "MySql"],
         "duty": [
@@ -78,6 +78,18 @@
           "System Management, Intelligent Party Building and Development"
         ],
         "url": "http://218.76.171.78:12012/"
+      },
+      {
+        "name": "Hunan Institute of Water Resources and Hydropower Research Personnel Records Management System",
+        "date": "2021.12 - 2022.04",
+        "desc": "Personnel file management system of the Academy of Water Sciences is a computer system that adopts the technologies of electronic archives, image digitization, paperless office and information networking to realize the storage and query and retrieval of multimedia archive resources including archive documents, sound, image and text, providing an effective technical guarantee for the management, utilization and protection of archive materials, infinitely prolonging the preservation time of the archive materials, and bringing convenience to the access and utilization of the archive documents. Archival literature to bring convenience.",
+        "skills": ["SpringBoot", "Minio", "MySql", "Vue + Ant Design"],
+        "duty": [
+          "Write relevant documents and complete delivery",
+          "Responsible for website front and backend framework construction, component packaging, progress management",
+          "Selection of high-fidelity camera manufacturers, equipment docking debugging"
+        ],
+        "url": ""
       },
       {
         "name": "Comprehensive Management Platform of Network Information Office",
@@ -437,6 +449,11 @@
       {
         "date": "2025.05",
         "name": "Cursor, Trae, Augment Code, MCP",
+        "desc": ""
+      },
+      {
+        "date": "2025.10",
+        "name": "Codex, Claude Code",
         "desc": ""
       }
     ]
