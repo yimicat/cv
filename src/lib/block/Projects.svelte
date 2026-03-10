@@ -11,7 +11,7 @@
     </a>
   </h2>
   <div
-    class="grid grid-cols-1 gap-3 2xl:grid-cols-3 lg:grid-cols-2 md:grid-cols-2 print:grid-cols-2 xl:grid-cols-2 -mx-3 print:gap-2"
+    class="grid grid-cols-1 gap-3 2xl:grid-cols-2 lg:grid-cols-2 md:grid-cols-2 print:grid-cols-2 xl:grid-cols-2 -mx-3 print:gap-2"
   >
     {#each $json('Projects.data') as i}
       <div
