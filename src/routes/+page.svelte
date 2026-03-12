@@ -23,11 +23,16 @@
 <main class="relative mx-auto scroll-my-12 overflow-auto pt-14 container md:p-16 print:p-12">
   <section class="mx-auto max-w-2xl w-full space-y-8 print:space-y-6">
     {#if data.isCheck}
-      <div class="mx-25 border rounded-md bg-background py-18">
-        <form method="POST" use:enhance bind:this={formRef} class="text-center">
-          <div class="pb-10px text-xl">你是机器人吗？</div>
-          <div class="pb-10px text-sm">请稍等，让我来检测一下吧~</div>
+      <div
+        class="flex flex-col overflow-hidden border border-muted rounded-lg bg-card p-3 text-card-foreground"
+      >
+        <form method="POST" use:enhance bind:this={formRef} class="px-10 text-center" action="/">
+          <div class="pb-5 text-xl">是机器人吗？</div>
+          <div class="pb-5 text-sm text-muted-foreground">请稍等，让我来检测一下吧~</div>
           <Turnstile
+            theme="light"
+            size="flexible"
+            language="auto"
             siteKey={PUBLIC_TURNSTILE_SITE_KEY}
             on:callback={event => {
               formRef.submit()
